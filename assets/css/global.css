@@ -306,6 +306,9 @@ a {
     flex-direction: column;
     gap: 2rem;
   }
+  .card-no-fee .container .img img {
+    margin: auto;
+  }
 }
 @media (max-width: 425px) {
   .hero .container .headline {
